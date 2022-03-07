@@ -1,5 +1,9 @@
 body {
-    background-color: #EB7847;
+    background-color: #EB7847
+}
+h1 {
+    text-align: center;
+}   
 
 img {
     height: auto;
@@ -9,6 +13,4 @@ img {
     margin-left: auto;    
 }
 
-h1 {
-    text-align: center;
-}
+
