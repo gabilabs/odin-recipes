@@ -1,7 +1,14 @@
+body {
+    background-color: #EB7847;
+
 img {
     height: auto;
     width: 40%;
     display: block;
     margin-right: auto;
     margin-left: auto;    
+}
+
+h1 {
+    text-align: center;
 }
